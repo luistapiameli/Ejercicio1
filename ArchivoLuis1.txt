@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Ahora este archivo fue modificado por Jose
+=======
+ArchivoLuis1
+Modificacion Luis 
+>>>>>>> a668929ef2b2036f7135b0604418d7e02f57d8ad
